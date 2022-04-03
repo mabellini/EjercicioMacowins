@@ -84,4 +84,6 @@ class Macowins {
 /*
 Considere tambien utilizar una clase Fecha para separar las ventas por dia, pero se me hacia raro como quedaba.
 Tendria los mismos metodos que la clase Macowins, pero sin incluir la fecha como parametro.
+
+Tambien estuvo en consideracion la idea de hacer una relacion de herencia entre efectivo y tarjeta
  */
