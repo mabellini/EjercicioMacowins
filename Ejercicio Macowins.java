@@ -78,3 +78,10 @@ class Macowins {
     method gananaciasDelDia(fecha){  // calculo la ganancia de todas las ventas realizadas en el dia
     }
 }
+
+
+
+/*
+Considere tambien utilizar una clase Fecha para separar las ventas por dia, pero se me hacia raro como quedaba.
+Tendria los mismos metodos que la clase Macowins, pero sin incluir la fecha como parametro.
+ */
